@@ -1,9 +1,10 @@
+
 <h1> Guia Do Iniciante</h1> 
  
  <h2>Um guia para aqueles que estão começando!</h2>
 
 
-<strong>Ótimo!</strong> 
+<strong>Ótimo!</strong><p> 
 Bem aqui estamos. A ideia desse guia e trazer algumas pesquisas que fiz com ajuda das IAs para me tornar um desenvolvedor full stack: Vamos lá.
 
 1.	<h2>Escolha das linguagens de programação</h2>: 
@@ -39,10 +40,15 @@ Isso pode ser uma ótima maneira de aprender com os outros e fazer contatos na i
 <i>
     Lembre-se de que o aprendizado contínuo é fundamental na área de desenvolvimento de software.
     Esteja sempre aberto a aprender novas tecnologias e aprimorar suas habilidades. Boa sorte em sua jornada
-    como programador full stack! Se precisar de mais alguma orientação ou tiver dúvidas específicas,
-    estou aqui para ajudar.
+    como programador full stack!
 </i>
+<p>
+<p>
+<p>
 
+Este conteudo foi totalmente revisado por mim. Pesquisado com amigos que são programadores. E uma breve observação sobre os cursos oferecidos na [DIO](https://www.dio.me/).
+
+<p>
 <p>
 <p>
 
